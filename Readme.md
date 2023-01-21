@@ -130,4 +130,4 @@ ZIRHLAR
 
     - 1 Para Kazanma İhtimali: 50%
 
-- Hiç birşey kazanamama ihtimali :
+- Hiç birşey kazanamama ihtimali : 45
