@@ -118,6 +118,8 @@ public class Player {
                     location = new Mine(this);
                     location.onLocation();
                     break;
+                default:
+                    System.out.println("Oyundan Çıkış Yapıldı..");
             }
         }
 
